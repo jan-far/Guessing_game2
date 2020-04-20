@@ -1,0 +1,39 @@
+C:\Users\dell\Documents\Web development\C#\loops\bin\Debug\netcoreapp3.1\loops.exe
+C:\Users\dell\Documents\Web development\C#\loops\bin\Debug\netcoreapp3.1\loops.deps.json
+C:\Users\dell\Documents\Web development\C#\loops\bin\Debug\netcoreapp3.1\loops.runtimeconfig.json
+C:\Users\dell\Documents\Web development\C#\loops\bin\Debug\netcoreapp3.1\loops.runtimeconfig.dev.json
+C:\Users\dell\Documents\Web development\C#\loops\bin\Debug\netcoreapp3.1\loops.dll
+C:\Users\dell\Documents\Web development\C#\loops\bin\Debug\netcoreapp3.1\loops.pdb
+C:\Users\dell\Documents\Web development\C#\loops\obj\Debug\netcoreapp3.1\loops.csprojAssemblyReference.cache
+C:\Users\dell\Documents\Web development\C#\loops\obj\Debug\netcoreapp3.1\loops.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Web development\C#\loops\obj\Debug\netcoreapp3.1\loops.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\Web development\C#\loops\obj\Debug\netcoreapp3.1\loops.AssemblyInfo.cs
+C:\Users\dell\Documents\Web development\C#\loops\obj\Debug\netcoreapp3.1\loops.dll
+C:\Users\dell\Documents\Web development\C#\loops\obj\Debug\netcoreapp3.1\loops.pdb
+C:\Users\dell\Documents\Web development\C#\loops\obj\Debug\netcoreapp3.1\loops.genruntimeconfig.cache
+C:\Users\dell\Documents\Web development\C#\Task3\bin\Debug\netcoreapp3.1\loops.exe
+C:\Users\dell\Documents\Web development\C#\Task3\bin\Debug\netcoreapp3.1\loops.deps.json
+C:\Users\dell\Documents\Web development\C#\Task3\bin\Debug\netcoreapp3.1\loops.runtimeconfig.json
+C:\Users\dell\Documents\Web development\C#\Task3\bin\Debug\netcoreapp3.1\loops.runtimeconfig.dev.json
+C:\Users\dell\Documents\Web development\C#\Task3\bin\Debug\netcoreapp3.1\loops.dll
+C:\Users\dell\Documents\Web development\C#\Task3\bin\Debug\netcoreapp3.1\loops.pdb
+C:\Users\dell\Documents\Web development\C#\Task3\obj\Debug\netcoreapp3.1\loops.csprojAssemblyReference.cache
+C:\Users\dell\Documents\Web development\C#\Task3\obj\Debug\netcoreapp3.1\loops.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Web development\C#\Task3\obj\Debug\netcoreapp3.1\loops.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\Web development\C#\Task3\obj\Debug\netcoreapp3.1\loops.AssemblyInfo.cs
+C:\Users\dell\Documents\Web development\C#\Task3\obj\Debug\netcoreapp3.1\loops.dll
+C:\Users\dell\Documents\Web development\C#\Task3\obj\Debug\netcoreapp3.1\loops.pdb
+C:\Users\dell\Documents\Web development\C#\Task3\obj\Debug\netcoreapp3.1\loops.genruntimeconfig.cache
+C:\Users\dell\Documents\GitHub\Guessing_game2\Task3\bin\Debug\netcoreapp3.1\loops.exe
+C:\Users\dell\Documents\GitHub\Guessing_game2\Task3\bin\Debug\netcoreapp3.1\loops.deps.json
+C:\Users\dell\Documents\GitHub\Guessing_game2\Task3\bin\Debug\netcoreapp3.1\loops.runtimeconfig.json
+C:\Users\dell\Documents\GitHub\Guessing_game2\Task3\bin\Debug\netcoreapp3.1\loops.runtimeconfig.dev.json
+C:\Users\dell\Documents\GitHub\Guessing_game2\Task3\bin\Debug\netcoreapp3.1\loops.dll
+C:\Users\dell\Documents\GitHub\Guessing_game2\Task3\bin\Debug\netcoreapp3.1\loops.pdb
+C:\Users\dell\Documents\GitHub\Guessing_game2\Task3\obj\Debug\netcoreapp3.1\loops.csprojAssemblyReference.cache
+C:\Users\dell\Documents\GitHub\Guessing_game2\Task3\obj\Debug\netcoreapp3.1\loops.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\GitHub\Guessing_game2\Task3\obj\Debug\netcoreapp3.1\loops.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\GitHub\Guessing_game2\Task3\obj\Debug\netcoreapp3.1\loops.AssemblyInfo.cs
+C:\Users\dell\Documents\GitHub\Guessing_game2\Task3\obj\Debug\netcoreapp3.1\loops.dll
+C:\Users\dell\Documents\GitHub\Guessing_game2\Task3\obj\Debug\netcoreapp3.1\loops.pdb
+C:\Users\dell\Documents\GitHub\Guessing_game2\Task3\obj\Debug\netcoreapp3.1\loops.genruntimeconfig.cache
